@@ -70,4 +70,7 @@ public static void countWord(String s,String word)
     	}
 这是主函数，通过args传入字符串s1和字符串s3
 然后调用separateword类实现分词，在调用countWord类实现计数。最后如果出现错误则跳出相对应的错误让调试员知道。
-系统运行截图 
+系统运行截图 https://github.com/zamirayhat/shiyanwu/blob/main/123456.jpg
+感想
+ 通过本次编程，我学会了字符串String及其方法的使用。
+ 掌握了异常处理结构，能利用main方法中的args数组传递。
